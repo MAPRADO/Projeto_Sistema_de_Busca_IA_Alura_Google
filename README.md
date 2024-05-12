@@ -17,4 +17,8 @@ Tom de voz: Senso de urgência e importância, com clareza. Para salvar vidas.
 Link para consulta no prompt do [Google AI Studio](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221YDZu3gBBmtZoh2Q5cQKbtDKstbgAWMU_%22%5D,%22action%22:%22open%22,%22userId%22:%22110469920656243760910%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 Linguagem utilizada:  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
